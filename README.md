@@ -12,7 +12,7 @@ The goal is to identify and categorize plasma into four types:
 4. **Icteric** (High bilirubin/Jaundice)
 
 ## Key Features
-- **Real-time Detection:** Utilizes TCS3200 Color Sensors for precise RGB frequency analysis.
+- **Real-time Detection:** Utilizes Camera Modules for precise RGB frequency analysis.
 - **Image Processing:** Implements OpenCV for plasma area segmentation and noise reduction.
 - **Edge Computing:** Optimized for low-power hardware to ensure accessibility for local hospitals.
 - **High Accuracy:** Achieved **91.07% accuracy** across 112 clinical test samples.
